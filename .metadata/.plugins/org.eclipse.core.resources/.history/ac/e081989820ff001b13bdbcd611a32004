@@ -1,0 +1,18 @@
+package sec02.exam01;
+
+public class TryCatchFinallyExample {
+
+	public static void main(String[] args) {
+		
+		String str = null;
+		System.out.println(str.length());
+	
+		try {
+			Class clazz = Class.forName("java.lang.String");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+}

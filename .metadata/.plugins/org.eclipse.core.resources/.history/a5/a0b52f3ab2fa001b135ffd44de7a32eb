@@ -1,0 +1,13 @@
+package sec02.exam06;
+
+public class InstanceofExample {
+
+	public static void main(String[] args) {
+
+		Parent parent = new Parent();
+		
+		if(parent instanceof Child) {
+		Child child = (Child) parent;
+		}
+	}
+}

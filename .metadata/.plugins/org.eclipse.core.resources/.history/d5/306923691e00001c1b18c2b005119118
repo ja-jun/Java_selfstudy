@@ -1,0 +1,19 @@
+package sec02.exam02;
+
+import java.util.Calendar;
+
+public class CalendarExample {
+
+	public static void main(String[] args) {
+		
+		
+		Calendar now = Calendar.getInstance();
+		
+		int year = now.get(Calendar.YEAR);
+		
+		System.out.println(year + "³â");
+		
+
+	}
+
+}

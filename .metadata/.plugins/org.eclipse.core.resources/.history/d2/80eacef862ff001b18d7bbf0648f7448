@@ -1,0 +1,15 @@
+package sec02.exam05;
+
+public class ThrowsExample {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+
+	public static void findClass() {
+		Class clazz = Class.forNmae("java.lnag.String2");
+	}
+	
+}

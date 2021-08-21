@@ -1,0 +1,13 @@
+package sec02.exam04;
+
+public class Anonymous {
+	private int field;
+	
+	public void method(int arg1, int arg2) {
+		int var1 = 0;
+		int var2 = 0;
+		
+		
+		
+	}
+}

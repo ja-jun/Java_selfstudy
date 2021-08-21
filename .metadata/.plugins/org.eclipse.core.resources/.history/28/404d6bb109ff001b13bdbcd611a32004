@@ -1,0 +1,14 @@
+package sec02.exam02;
+
+public class Anonymous {
+	RemoteControl field;
+	
+	void method1() {
+		RemoteControl localVar;
+	}
+	
+	void method2(RemoteControl rc) {
+		
+	}
+	
+}

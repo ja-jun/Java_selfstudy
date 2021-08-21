@@ -1,0 +1,11 @@
+package sec01.exam02;
+
+public class KeyExample {
+
+	public static void main(String[] args) {
+		
+		HashMap<String, String> hashMap = new HashMap<String, String>();
+
+	}
+
+}

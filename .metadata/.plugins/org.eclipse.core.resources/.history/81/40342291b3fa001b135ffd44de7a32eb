@@ -1,0 +1,15 @@
+package sec03.exam01;
+
+public abstract class Phone {
+	//필드
+	public String owner;	
+	
+	//생성자
+	public Phone(Stirng owner) {
+		this.owner = onwer;
+	}
+	
+	//메소드
+	
+	
+}

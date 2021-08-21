@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sec03.exam01.Week"/>
+    <fullyQualifiedTypeName name="sec06.exam02.kumho.BigWidthTire"/>
+    <fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
+    <fullyQualifiedTypeName name="sec02.exam03.HankookTire"/>
+    <fullyQualifiedTypeName name="sec02.exam05.InterfaceA"/>
+    <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
+    <fullyQualifiedTypeName name="sec01.exam01.A.C"/>
+    <fullyQualifiedTypeName name="sec01.exam05.Outter.Nested"/>
+    <fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Button"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,15 @@
+package sec02.exam05;
+
+public class ThrowsExample {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+
+	public static void findClass() throws ClassNotFoundException {
+		Class clazz = Class.forName("java.lnag.String2");
+	}
+	
+}
